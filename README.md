@@ -1,2 +1,2 @@
 # digital_logic_design_cpu_project
- In this project, we have designed cpu containing: register file, alu, pc, ram and control unit. Then, we connected each of them so we would have a running virtual cpu.
+ In this project, we used logisim to create a running virtual cpu. Main parts of cpu is control unit, alu, ram, pc, and register file. We have created input.hex file using main.py file. Operations and isa can be found in report file.
